@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetNote.Apis", "DotNetNote.Apis\DotNetNote.Apis.csproj", "{0BA0942A-45CE-4137-BCBE-4BD67BEACDFE}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DotNetNote.Database", "DotNetNote.Database\DotNetNote.Database.sqlproj", "{AE4F9D31-BA6B-4864-9A5C-767445561089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA0942A-45CE-4137-BCBE-4BD67BEACDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA0942A-45CE-4137-BCBE-4BD67BEACDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA0942A-45CE-4137-BCBE-4BD67BEACDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA0942A-45CE-4137-BCBE-4BD67BEACDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4F9D31-BA6B-4864-9A5C-767445561089}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED6A8EA-91C4-4BC6-8FD7-899BF0F8EFAC}
+	EndGlobalSection
+EndGlobal
